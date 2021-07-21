@@ -1,0 +1,8 @@
+C:\Users\Lucia\OneDrive\Documentos\SharpDevelop Projects\campo_minado\campo_minado\bin\Debug\campo_minado.exe.config
+C:\Users\Lucia\OneDrive\Documentos\SharpDevelop Projects\campo_minado\campo_minado\bin\Debug\campo_minado.exe
+C:\Users\Lucia\OneDrive\Documentos\SharpDevelop Projects\campo_minado\campo_minado\bin\Debug\campo_minado.pdb
+C:\Users\Lucia\OneDrive\Documentos\SharpDevelop Projects\campo_minado\campo_minado\obj\Debug\campo_minado.csprojResolveAssemblyReference.cache
+C:\Users\Lucia\OneDrive\Documentos\SharpDevelop Projects\campo_minado\campo_minado\obj\Debug\campo_minado.MainForm.resources
+C:\Users\Lucia\OneDrive\Documentos\SharpDevelop Projects\campo_minado\campo_minado\obj\Debug\campo_minado.csproj.GenerateResource.Cache
+C:\Users\Lucia\OneDrive\Documentos\SharpDevelop Projects\campo_minado\campo_minado\obj\Debug\campo_minado.exe
+C:\Users\Lucia\OneDrive\Documentos\SharpDevelop Projects\campo_minado\campo_minado\obj\Debug\campo_minado.pdb
